@@ -250,5 +250,4 @@ Users can participate in community forums to:**
 ---
 
 ## Contact
-For any queries or support, please contact us at support@ecowaste.com.
-## Deployment
+For any queries or support, please contact us at support@ecowaste.com
