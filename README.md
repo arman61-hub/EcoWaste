@@ -101,7 +101,7 @@ EcoWaste is a waste management platform that uses technology to identify, manage
 - AI Integration: Gemini API
 
 ## Project Structure
-
+```
 EcoWaste
 ├── backend
 │  ├── ai
@@ -191,7 +191,7 @@ EcoWaste
 │  └──vite.config.js
 │
 └── README.md
-
+```
 
 ## Features in Detail
 
